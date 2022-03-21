@@ -26,6 +26,9 @@
     .display-5 {
         font-size: 2.5rem;
     }
+    .owl-carousel .owl-item img { 
+        height: 100%;
+    }
 }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
@@ -169,8 +172,7 @@
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
     .menu-header a:not(.navbar-brand) {
-        color: #000000;
-      
+        color: #000000; 
         font-size: 11px;
    
     }
@@ -189,7 +191,17 @@
     .owl-carousel.owl-drag .owl-item .position-relative {
         height:900px;
     }
-    
+    .owl-carousel .owl-item img { 
+        height: 100%;
+    }
+    .display-4 {
+        font-size: 2.5rem;
+    }
+    .bg-whites {
+        height: 234px;
+        width: 210px;
+        margin: 13px auto;
+    }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
