@@ -45,6 +45,50 @@
         width: 290px;
         margin: 20px auto;
     }
+    .display-5 {
+        font-size: 1.5rem;
+
+    }
+    .ctaa {
+        min-height: 28vh;
+        margin-top: 63px;
+    }
+    .ctaa h2 {
+        font-size: 2rem;
+    }
+    .display-itittt {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-content: flex-start;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    .display-itittt h2{
+        color: #bc2227;
+        font-weight: 800;
+        margin-bottom:15px;
+    }
+    .display-ititt {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+    }
+    .display-ititte {
+        display: flex;
+        flex-direction: column-reverse;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+    }
+    section iframe{
+        width: 100%;
+        min-width: 100%;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -53,6 +97,52 @@
         height: 232px;
         width: 250px;
         margin: 20px auto;
+    }
+    .display-5 {
+        font-size: 1.5rem;
+    }
+    .ctaa {
+        min-height: 28vh;
+        margin-top: 63px;
+    }
+    .ctaa h2 {
+        font-size: 2rem;
+    }
+    .ctaa .font-weight-bold {
+            margin-top: 22px;
+    }
+    .display-itittt {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-content: flex-start;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    .display-itittt h2{
+        color: #bc2227;
+        font-weight: 800;
+        margin-bottom:15px;
+    }
+    .display-ititt {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+    }
+    .display-ititte {
+        display: flex;
+        flex-direction: column-reverse;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+    }
+    section iframe{
+        width: 100%;
+        min-width: 100%;
     }
 }
 
